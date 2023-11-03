@@ -1,6 +1,6 @@
 {
   "name": "aadhaar-validator-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The aadhaar-validator npm package provides a simple and efficient utility for validating Aadhaar numbers, the 12-digit unique identification numbers issued by the Indian government",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
