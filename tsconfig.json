@@ -4,6 +4,7 @@
     "module": "CommonJS",
     "outDir": "./dist",
     "strict": true,
+    "declaration": true,
     "typeRoots": ["./node_modules/@types", "./src"]
   },
   "include": ["src/**/*.ts"],
