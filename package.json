@@ -1,0 +1,33 @@
+{
+  "name": "aadhaar-validator-ts",
+  "version": "1.0.0",
+  "description": "The aadhaar-validator npm package provides a simple and efficient utility for validating Aadhaar numbers, the 12-digit unique identification numbers issued by the Indian government",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SHTO88/aadhaar-validator-ts"
+  },
+  "keywords": [
+    "Aadhaar validation",
+    "Aadhaar number verification",
+    "UIDAI validation",
+    "Aadhar card validation",
+    "Aadhaar data integrity",
+    "Aadhaar checksum",
+    "Indian government ID",
+    "Government ID validation",
+    "Indian identification number",
+    "Aadhaar format check",
+    "Verhoeff",
+    "Aadhaar validation Verhoeff"
+  ],
+  "author": "Shishant Todi",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
